@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagementsystemfrontend.model;public enum Role {    Member,    Manager,    Admin;}

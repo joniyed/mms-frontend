@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagementsystemfrontend.exceptions;public class ResourceNotFoundException extends Exception {    public ResourceNotFoundException(String s) {        super(s);    }}

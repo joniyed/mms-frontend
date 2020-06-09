@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagementsystemfrontend.model;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;@Data@AllArgsConstructor@NoArgsConstructorpublic class Phone {    private String code;    private long number;    @Override    public String toString() {        return code+""+number;    }}

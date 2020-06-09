@@ -1,0 +1,1 @@
+package bd.edu.seu.messmanagementsystemfrontend.ui;import com.vaadin.flow.component.html.Label;import com.vaadin.flow.component.orderedlayout.HorizontalLayout;public class Footer extends HorizontalLayout {    public Footer() {        super();        Label footer = new Label("@Joniyed Bhuiyan");        add(footer);    }}
